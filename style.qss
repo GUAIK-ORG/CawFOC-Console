@@ -1,0 +1,35 @@
+* {
+    font-family: "Microsoft YaHei";
+}
+
+QLabel {
+    font-size: 16px;
+    color: #bdc8e2;
+    background-color: #2e3648;
+    font-weight: bold;
+}
+
+QLabel#titleLabel {
+    border-radius: 5px;
+    font-size: 18px;
+    color: #bdc8e2;
+    background-color: #2e3648;
+    font-weight: bold;
+}
+
+
+QGroupBox::title {
+    font-size: 16px;
+    color: #bdc8e2;
+    background-color: #2e3648;
+    font-weight: bold;
+}
+
+QLineEdit {
+    background-color: #2e3648;
+    color: #ffffff;
+    font-weight: bold;
+    border-style: outset;
+    border-color: #2e3648;
+    border-width: 2px;
+}
